@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with you.
 - 🤔 I’m looking for help with starting to study.
 - 😅 I’m hoping I can start to learn English.
-- 💬 Ask me about what I am doing.
+- 💬 Ask me about everything such as "What are you doing now?".
 - 📫 How to reach me: ***REMOVED***
 - 😄 Pronouns: ?
 - ⚡ Fun fact: nothing.
