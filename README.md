@@ -12,6 +12,6 @@
 
 ![](https://komarev.com/ghpvc/?username=night-heron-eba&color=brightgreen&style=for-the-badge&label=profile+views)
 
-![](https://hit.yhype.me/github/profile?user_id=75131812)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/night-heron-eba/night-heron-eba/snake_branch/github-contribution-grid-snake.svg)
+
+![](https://hit.yhype.me/github/profile?user_id=75131812)
