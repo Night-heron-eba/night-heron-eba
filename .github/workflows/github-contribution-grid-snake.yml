@@ -19,7 +19,7 @@ jobs:
                   github_user_name: ${{ github.repository_owner }}
                   svg_out_path: dist/github-contribution-grid-snake.svg
             
-            - name: push github-contribution-grid-snake.svg to the snake_branch1 branch
+            - name: push github-contribution-grid-snake.svg to the snake_branch branch
               uses: crazy-max/ghaction-github-pages@v2.5.0
               with:
                   target_branch: snake_branch
