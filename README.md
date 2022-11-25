@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on onesleepfromdragontocattle.
 - 🌱 I’m currently learning for not to study.
 - 👯 I’m looking to collaborate with you.
-- 🤔 I’m looking for help with everything about information technology.
+- 🤔 I’m looking for help with everything about programming.
 - 💬 Tell me why this readme file appares on my profile.
 - 😄 Pronouns: ?
 - ⚡ Fun fact: nothing.
