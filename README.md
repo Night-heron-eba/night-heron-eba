@@ -2,7 +2,7 @@
 
 ####  I'm eba.
 
-- 🔭 I’m currently working on onesleepfromdinosaurtocattle.
+- 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning for not to study.
 - 👯 I’m looking to collaborate with you.
 - 🤔 I’m looking for help with everything about programming.
